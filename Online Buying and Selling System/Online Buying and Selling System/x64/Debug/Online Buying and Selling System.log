@@ -1,0 +1,4 @@
+﻿  Main.cpp
+E:\C++ Projects\Online-Buying-and-Selling-System\Online Buying and Selling System\Online Buying and Selling System\Main.cpp(16,17): warning C4309: 'initializing': truncation of constant value
+E:\C++ Projects\Online-Buying-and-Selling-System\Online Buying and Selling System\Online Buying and Selling System\Main.cpp(831,16): warning C4101: 'total': unreferenced local variable
+  Online Buying and Selling System.vcxproj -> E:\C++ Projects\Online-Buying-and-Selling-System\Online Buying and Selling System\x64\Debug\Online Buying and Selling System.exe
